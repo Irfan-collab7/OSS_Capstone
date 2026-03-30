@@ -3,7 +3,7 @@ bash
 # ============================================================
 # Script 1: System Identity Report
 # ============================================================
-STUDENT_NAME="Akshat"
+STUDENT_NAME="Irfan"
 SOFTWARE_CHOICE="Linux Kernel"
 KERNEL=$(uname -r)                          # running kernel version
 USER_NAME=$(whoami)                         # who is logged in
