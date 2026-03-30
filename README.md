@@ -2,7 +2,7 @@
 
 🧠⚙️ Open Source Audit Toolkit
 
-Engineered by Akshat Singh
+Engineered by Shaik Irfan
 
 “Observability meets philosophy.”
 A next-generation Linux auditing toolkit that doesn’t just inspect your system—it interprets, contextualizes, and celebrates open-source ecosystems.
@@ -199,7 +199,7 @@ We operate on a collaborative innovation model:
 
 👨‍💻 Author
 
-Akshat Singh
+Shaik Irfan
 Engineer | Systems Thinker | Open Source Advocate
 
 ⸻
@@ -214,5 +214,5 @@ Promoting transparency, collaboration, and freedom.
 💬 Closing Statement
 
 “Great systems aren’t just built—they’re understood.”
-— Akshat Singh
+— Shaik Irfan
 
